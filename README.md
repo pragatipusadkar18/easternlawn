@@ -1,5 +1,5 @@
 # Eastern lawn
-Eastern Lawn is lawn booking website .
+Eastern Lawn is lawn booking website .This was my first live project related to web development , I was responsible for frontend , backend , content , seo .
 User-Friendly Booking Interface: Eastern Lawn's website provides a seamless and user-friendly booking experience. Users can easily browse available lawn spaces, view details, check pricing, and make reservations with just a few clicks.
 
 Responsive Design: The website is built using Bootstrap, ensuring it is fully responsive and accessible on a wide range of devices, including desktops, tablets, and smartphones. This ensures that users can make bookings from anywhere, at any time.
