@@ -17,7 +17,7 @@ Advanced Admin Panel: The admin panel, developed with PHP and SQL, provides admi
 Feedback and Support: Users can provide feedback and contact support through the website, ensuring a high level of customer satisfaction.
 Here are some webcature from my work 
 
-![Web capture_3-9-2023_183838_tbsnagpur com](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/b19ac7ba-74e4-4ebc-b038-ec73bcc369eb)
+
 
 ![image](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/60de487b-47a8-4585-8f77-97aff5419313)
 
