@@ -18,8 +18,10 @@ Feedback and Support: Users can provide feedback and contact support through the
 Here are some webcature from my work 
 
 ![Web capture_3-9-2023_183838_tbsnagpur com](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/b19ac7ba-74e4-4ebc-b038-ec73bcc369eb)
-![image](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/d3f9d5f1-4afc-47ed-8ce7-d2c52f1eddee)
-![image](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/ad6272f1-d462-4362-a97c-bdca884e96c7)
+![image](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/60de487b-47a8-4585-8f77-97aff5419313)
+![image](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/162de977-7e21-4ebc-a53e-bd8de8d02534)
+![image](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/2c4b0071-245c-4d77-bc6a-572bd330608e)
+
 
 
 
