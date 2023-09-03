@@ -15,3 +15,14 @@ User Profiles: Users can create accounts and profiles, making it easy to track t
 Advanced Admin Panel: The admin panel, developed with PHP and SQL, provides administrators with full control over the platform. Key features include user management, reservation approval, financial reporting, and content management.
 
 Feedback and Support: Users can provide feedback and contact support through the website, ensuring a high level of customer satisfaction.
+Here are some webcature from my work 
+
+![Web capture_3-9-2023_183838_tbsnagpur com](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/b19ac7ba-74e4-4ebc-b038-ec73bcc369eb)
+![image](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/d3f9d5f1-4afc-47ed-8ce7-d2c52f1eddee)
+![image](https://github.com/pragatipusadkar18/easternlawn/assets/130049905/ad6272f1-d462-4362-a97c-bdca884e96c7)
+
+
+
+
+
+
